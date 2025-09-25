@@ -55,8 +55,3 @@ To reproduce the project after cloning from GitHub:
 - Tide data: © Hong Kong Observatory
 - Font: `led_counter-7.ttf` (see font license if applicable)
 - Music: Audio file `OceanWave-DecaJoins.mp3` included in project
-
----
-
-For further assistance, please open an issue or contact the maintainer.
-cd /Users/a1/Desktop/polyu/5913/AS2
